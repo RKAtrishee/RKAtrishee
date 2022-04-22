@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RKAtrishee
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning NLP techniques
+- 💞️ I’m looking to collaborate on different data science projects
+- 📫 Reach out to me @rakshit245205@gmail.com
